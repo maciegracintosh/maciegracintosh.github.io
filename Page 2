@@ -4,15 +4,12 @@
 <meta charset="utf-8">
 <title>Grace McIntosh's Website</title>
   <link rel="stylesheet" type="text/css" href="Style.css">
-  
-  
 </head>
 <body >
-<ul>
 <a href="anchors.html#page 1">
-<h1>This is some text!</h1>
+<h1>This is page 2</h1>
 <h2>
-Hello world!!!
+Welcome to page 2!!!
 </h2>
 </body>
 </html>
